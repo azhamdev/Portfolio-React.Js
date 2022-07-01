@@ -1,0 +1,27 @@
+.Container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-block: 65px;
+    /* background-color: aquamarine; */
+}
+
+.Headline h1{
+    color: #fff;
+    font-size: 8vw;
+    line-height: 75%;
+    text-align: center;
+}
+
+.SubHeadline{
+    max-width: 50vw;
+}
+
+
+.SubHeadline p{
+    font-size: 1.5vw;
+    color: #fff;
+    text-align: center;
+    font-weight: 300;
+}
