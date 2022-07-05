@@ -1,0 +1,10 @@
+.ItemsWrapper {
+  /* background-color: blueviolet; */
+  display: flex;
+  justify-content: center;
+}
+
+.ImageItem {
+  width: 100%;
+  margin-top: 10px;
+}
