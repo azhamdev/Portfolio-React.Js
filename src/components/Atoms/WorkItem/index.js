@@ -3,7 +3,7 @@ import "../../../styles/Work.css"
 
 export default function WorkItem({ image }) {
     return (
-        <div>
+        <div className='ImageItem'>
             <img src={image} className="ImageItem" />
         </div>
     )
