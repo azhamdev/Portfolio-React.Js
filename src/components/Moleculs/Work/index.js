@@ -20,7 +20,7 @@ export default function Work() {
     return (
         <div>
             <Gap height={150} />
-            <div>
+            <div id="Work">
                 <Title title={"Work"} />
             </div>
             <Gap height={20} />
